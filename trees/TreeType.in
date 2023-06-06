@@ -1,0 +1,83 @@
+IsEmpty
+PutItem P
+PutItem F
+PutItem S
+PrintTree
+PutItem B
+PutItem H
+PutItem G
+PutItem R
+PutItem Y
+PutItem T
+PutItem Z
+PutItem W
+IsFull
+IsEmpty
+GetItem P
+GetItem G
+GetItem T
+GetItem A
+GetItem N
+PrintTree
+ResetTree IN_ORDER
+GetNextItem IN_ORDER
+GetNextItem IN_ORDER
+GetNextItem IN_ORDER
+GetNextItem IN_ORDER
+GetNextItem IN_ORDER
+GetNextItem IN_ORDER
+GetNextItem IN_ORDER
+GetNextItem IN_ORDER
+GetNextItem IN_ORDER
+GetNextItem IN_ORDER
+GetNextItem IN_ORDER
+PrintTree
+ResetTree POST_ORDER
+GetNextItem POST_ORDER
+GetNextItem POST_ORDER
+GetNextItem POST_ORDER
+GetNextItem POST_ORDER
+GetNextItem POST_ORDER
+GetNextItem POST_ORDER
+GetNextItem POST_ORDER
+GetNextItem POST_ORDER
+GetNextItem POST_ORDER
+GetNextItem POST_ORDER
+GetNextItem POST_ORDER
+PrintTree
+ResetTree PRE_ORDER
+GetNextItem PRE_ORDER
+GetNextItem PRE_ORDER
+GetNextItem PRE_ORDER
+GetNextItem PRE_ORDER
+GetNextItem PRE_ORDER
+GetNextItem PRE_ORDER
+GetNextItem PRE_ORDER
+GetNextItem PRE_ORDER
+GetNextItem PRE_ORDER
+GetNextItem PRE_ORDER
+GetNextItem PRE_ORDER
+PrintTree
+GetLength
+IsEmpty
+DeleteItem W
+DeleteItem Z
+DeleteItem S
+DeleteItem P
+DeleteItem F
+DeleteItem B
+DeleteItem H
+DeleteItem G
+DeleteItem R
+DeleteItem T
+DeleteItem Y
+IsEmpty
+PutItem A
+PutItem B
+PrintTree
+MakeEmpty
+IsEmpty
+Error
+Quit
+
+

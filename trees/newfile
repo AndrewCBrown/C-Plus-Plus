@@ -1,0 +1,40 @@
+testrun
+A is inserted
+B is inserted
+X is inserted
+Y is inserted
+Z is inserted
+C is inserted
+Q is inserted
+C is inserted
+A is inserted
+B is inserted
+R is inserted
+O is inserted
+S is inserted
+Z is inserted
+F is inserted
+G is inserted
+L is inserted
+H is inserted
+I is inserted
+J is inserted
+
+Printing first tree...
+ABCXYZ
+Printing second tree...
+ABCOQRSZ
+Printing third tree...
+FGHIJL
+
+Pre-Order traversal of tree 1: ABXCYZ
+In-Order traversal of tree 1: ABCXYZ
+Post-Order traversal of tree 1: CZYXBA
+
+Pre-Order traversal of tree 2: QCABORSZ
+In-Order traversal of tree 2: ABCOQRSZ
+Post-Order traversal of tree 2: BAOCZSRQ
+
+Pre-Order traversal of tree 3: FGLHIJ
+In-Order traversal of tree 3: FGHIJL
+Post-Order traversal of tree 3: JIHLGF

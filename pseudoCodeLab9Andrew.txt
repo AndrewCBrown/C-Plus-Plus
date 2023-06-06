@@ -1,0 +1,9 @@
+Declare and initialize variables for the user input number and array size.
+Declare and initialize array
+
+Create loop for 20 entries
+	Prompt the user to enter a number
+	Check if entry is in array
+	Enter number into array if valid and then sort array
+
+Display non-zero array values
